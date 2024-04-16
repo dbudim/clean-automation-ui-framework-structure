@@ -1,0 +1,3 @@
+com.dbudim.core.listeners.SelenideConfigurationListener
+com.dbudim.core.listeners.AttachScreenShotListener
+com.dbudim.core.listeners.CollectAnalyticsDataListener
